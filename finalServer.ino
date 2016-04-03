@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 
-char ssid[] = "SLT WIFI";      //  your network SSID (name) 
-char pass[] = "936051251v";   // your network password
+char ssid[] = "network";      //  your network SSID (name) 
+char pass[] = "pass";   // your network password
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
